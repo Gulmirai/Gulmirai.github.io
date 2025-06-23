@@ -1,0 +1,74 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: "Zilla Slab", serif;
+  background-color: #f5f5d6;
+  color:#333;
+  text-align: center;
+}
+#name-id {
+  color: green;
+  margin: 15px;
+  padding: 15px;
+  text-align: left;
+  background-color: #f5f5de;
+}
+nav ul {
+  list-style: none; 
+}
+ .mainline {
+  color:green;
+  font-weight: bold;
+  display: inline;
+  margin: 10px;
+  padding: 10px;  
+  position: relative;
+  top: -4em;
+}
+.main-text {
+  padding: 150px;
+  text-align: left;
+  position: relative;
+  top: 30px;
+  margin-left: 390px;
+  font-size: 20px;
+}
+.button-h {
+  position: relative;
+  top: -120px;
+  float: left;
+  border: none;
+  cursor: pointer;
+}
+.my-pic {
+  position: relative;
+  top: -540px;
+  float: left;
+  margin: 5px;
+  margin-left: 170px;
+}
+.my-name {
+  font-family: "Zilla Slab", serif;
+  font-size: 40px;
+  color: green;
+  position: relative;
+  top: 200px;
+  margin-left: -65px;
+}
+.my-name1 {
+  color:#333;
+  font-size: 35px;
+  position: relative;
+  top: 180px;
+  margin-right: 130px;
+}
+.BottomSide {
+  position: relative;
+  margin-right: 400px;
+  padding-bottom: 250px;
+}
+.c-site-footer {
+  padding: 50px;
+  background-color: #f5f5de 
+}
